@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "facility-shared-lib", "facility-shared-lib.csproj", "{DF472A20-EFB1-43FE-9CCE-2DEF36333940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF472A20-EFB1-43FE-9CCE-2DEF36333940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF472A20-EFB1-43FE-9CCE-2DEF36333940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF472A20-EFB1-43FE-9CCE-2DEF36333940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF472A20-EFB1-43FE-9CCE-2DEF36333940}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {207BD371-64C6-4367-A4D1-211A7CA3B007}
+	EndGlobalSection
+EndGlobal

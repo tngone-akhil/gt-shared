@@ -1,0 +1,21 @@
+
+namespace TNG.Shared.Lib.Mongo.Common
+{
+    public static class TEMPLATE
+    {
+        public static string CHANGEPASSWORDEMAILTEMPLATE = "CHANGE_PASSWORD_EMAIL_TEMPLATE";
+        public static string CHANGEPASSWORDEMAILLINK = "CHANGE_PASSWORD_EMAIL_LINK";
+        public static string CHANGEPASSWORDSUBJECT = "CHANGE_PASSWORD_SUBJECT";
+        public static string ADMIN_ADDITION_EMAIL_TEMPLATE = "ADMIN_ADDITION_EMAIL_TEMPLATE";
+        public static string ADMIN_ADDITION_EMAIL_SUBJECT = "ADMIN_ADDITION_EMAIL_SUBJECT";
+        public static string ADMIN_ADDITION_EMAIL_LINK = "ADMIN_ADDITION_EMAIL_LINK";
+        public static string VERIFICATION_EMAIL_TEMPLATE = "VERIFICATION_EMAIL_TEMPLATE";
+        public static string VERIFICATION_EMAIL_SUBJECT = "VERIFICATION_EMAIL_SUBJECT";
+        public static string CHANGE_PASSWORD_EMAIL_TEMPLATE_FOR_USER = "CHANGE_PASSWORD_EMAIL_TEMPLATE_FOR_USER";
+        public static string PUSH_NOTIFICATION = "PUSH_NOTIFICATION";
+        public static string IN_APP_NOTIFICATION = "IN_APP_NOTIFICATION";
+
+
+
+    }
+}
